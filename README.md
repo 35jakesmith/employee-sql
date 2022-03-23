@@ -2,7 +2,7 @@
     
   ## Description
     
-  This project generates a professional README using Node
+  This project generates a employee tracker using SQL
     
    ## Table of Contents
    * [Description](#description)
